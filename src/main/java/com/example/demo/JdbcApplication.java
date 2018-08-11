@@ -13,6 +13,10 @@ public class JdbcApplication {
 		System.out.println("-------");
 		System.out.println("---");
 		System.out.println();
+		get();;
+	}
 
+	public static  void get(){
+		return ;
 	}
 }
